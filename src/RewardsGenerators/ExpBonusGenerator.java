@@ -1,9 +1,10 @@
 package RewardsGenerators;
 
+import Fabric.ItemGenerator;
 import Rewards.ExpBonus;
-import Rewards.GameItem;
+import Fabric.GameItem;
 
-public class ExpBonusGenerator extends ItemGenerator{
+public class ExpBonusGenerator extends ItemGenerator {
     @Override
     public GameItem createItem() {
         return new ExpBonus();

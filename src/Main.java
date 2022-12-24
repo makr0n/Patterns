@@ -1,3 +1,4 @@
+import Fabric.ItemGenerator;
 import RewardsGenerators.*;
 
 import java.util.ArrayList;

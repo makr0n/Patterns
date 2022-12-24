@@ -1,6 +1,7 @@
 package RewardsGenerators;
 
-import Rewards.GameItem;
+import Fabric.ItemGenerator;
+import Fabric.GameItem;
 import Rewards.SwordReward;
 
 public class SwordGenerator extends ItemGenerator {

@@ -1,9 +1,10 @@
 package RewardsGenerators;
 
+import Fabric.ItemGenerator;
 import Rewards.EmptyChest;
-import Rewards.GameItem;
+import Fabric.GameItem;
 
-public class EmptyChestGenerator extends ItemGenerator{
+public class EmptyChestGenerator extends ItemGenerator {
     @Override
     public GameItem createItem() {
         return new EmptyChest();

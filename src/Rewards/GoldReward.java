@@ -1,5 +1,7 @@
 package Rewards;
 
+import Fabric.GameItem;
+
 public class GoldReward implements GameItem {
 
     @Override

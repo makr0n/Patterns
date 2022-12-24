@@ -1,6 +1,7 @@
 package RewardsGenerators;
 
-import Rewards.GameItem;
+import Fabric.ItemGenerator;
+import Fabric.GameItem;
 import Rewards.MimicChest;
 
 public class MimicChestGeneator extends ItemGenerator {

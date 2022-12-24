@@ -1,4 +1,7 @@
 package Rewards;
+
+import Fabric.GameItem;
+
 /*
 Класс Сундук без награды
  */

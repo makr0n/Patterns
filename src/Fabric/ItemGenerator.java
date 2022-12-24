@@ -1,6 +1,4 @@
-package RewardsGenerators;
-
-import Rewards.GameItem;
+package Fabric;
 
 public abstract class ItemGenerator {
     public void openReward() {
